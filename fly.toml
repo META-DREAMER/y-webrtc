@@ -1,6 +1,7 @@
 # fly.toml file generated for y-webrtc-eu on 2023-03-16T15:02:47+01:00
 
-app = "y-webrtc-eu"
+app = 'y-webrtc-dream'
+primary_region = 'sea'
 kill_signal = "SIGINT"
 kill_timeout = 5
 processes = []
